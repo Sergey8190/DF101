@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "ictmp")(type "KiCad")(uri "${KIPRJMOD}/ictmp.kicad_sym")(options "")(descr ""))
+  (lib (name "stdsym")(type "KiCad")(uri "${KIPRJMOD}/stdsym.kicad_sym")(options "")(descr ""))
+)
